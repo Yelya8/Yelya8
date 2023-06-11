@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Yelya8/Yelya8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hayley. 
+Pronouns: She/her
+I'm a passionate and committed Data Scientist, eager to expand my skillset and take on new projects! I want to learn, grow and excel in the tech industry.
 
-Here are some ideas to get you started:
+You can find me on LinkedIn: https://www.linkedin.com/in/hayley-marter-ab3057268/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+Python
+Pandas
+NumPy
+Scikit_learn
+Seaborn
